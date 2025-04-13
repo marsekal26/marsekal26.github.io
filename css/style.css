@@ -96,7 +96,7 @@ section.halaman1 {
 }
 
 .halaman1 .ucapan1 {
-  width: fit-content;
+  width: 100%;
   text-align: center;
 }
 
@@ -112,7 +112,7 @@ section.halaman2 {
 }
 
 .halaman2 .ucapan2 {
-  width: fit-content;
+  width: 100%;
   text-align: center;
 }
 
@@ -128,7 +128,7 @@ section.halaman3 {
 }
 
 .halaman3 .ucapan3 {
-  width: fit-content;
+  width: 100%;
   text-align: center;
 }
 
